@@ -248,7 +248,7 @@ void testOpenAddressingHashTables() {
 }
 
 int main() {
-//    testChainHashTables();
+    testChainHashTables();
     cout<<endl;
     testOpenAddressingHashTables();
     return 0;
