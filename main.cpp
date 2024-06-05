@@ -17,7 +17,7 @@
 using namespace std;
 using namespace std::chrono;
 
-const int NUM_ELEMENTS = 1000000;
+const int NUM_ELEMENTS = 100000;
 
 void testChainHashTables() {
     // Przygotowanie danych
