@@ -1,0 +1,1 @@
+### Implementacja 3 metod hashowania: haszowanie algebraiczne, haszowanie Fibonacciego i haszowanie modulo, które są zrealizowane z wykorzystaniem dwóch strategii: łańcuchowania oraz adresowania otwartego.
